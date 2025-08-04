@@ -1,0 +1,37 @@
+# Nmap 7.95 scan initiated Mon Aug  4 21:11:01 2025 as: /usr/lib/nmap/nmap -sS -oN nmap_output.txt -sV 10.61.114.0/24
+Nmap scan report for 10.61.114.61
+Host is up (0.37s latency).
+All 1000 scanned ports on 10.61.114.61 are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+MAC Address: X:X:X:X:X:X(Unknown)
+
+Nmap scan report for 10.61.114.78
+Host is up (0.010s latency).
+Not shown: 999 closed tcp ports (reset)
+PORT   STATE SERVICE VERSION
+53/tcp open  domain  dnsmasq 2.51
+MAC Address: X:X:X:X:X:X (Unknown)
+
+Nmap scan report for 10.61.114.182
+Host is up (0.020s latency).
+All 1000 scanned ports on 10.61.114.182 are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+MAC Address: X:X:X:X:X:X (Intel Corporate)
+
+Nmap scan report for 10.61.114.185
+Host is up (0.29s latency).
+Not shown: 999 filtered tcp ports (no-response)
+PORT     STATE SERVICE         VERSION
+7070/tcp open  ssl/realserver?
+MAC Address: X:X:X:X:X:X (Intel Corporate)
+
+Nmap scan report for 10.61.114.198
+Host is up (0.013s latency).
+All 1000 scanned ports on 10.61.114.198 are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+MAC Address: X:X:X:X:X:X (Unknown)
+
+Nmap scan report for 10.61.114.119
+Host is up (0.0000040s latency).
+All 1000 scanned ports on 10.61.114.119 are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
