@@ -1,4 +1,5 @@
 # Nmap 7.95 scan initiated Mon Aug  4 21:11:01 2025 as: /usr/lib/nmap/nmap -sS -oN nmap_output.txt -sV 10.61.114.0/24
+
 Nmap scan report for 10.61.114.61
 Host is up (0.37s latency).
 All 1000 scanned ports on 10.61.114.61 are in ignored states.
